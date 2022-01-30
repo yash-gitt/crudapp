@@ -1,0 +1,17 @@
+.div {
+
+    padding: 70px;
+}
+.divh {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.back {
+    margin-top: 20px;
+
+
+
+}
